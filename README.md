@@ -59,6 +59,8 @@ Confused? Try [this video](https://www.youtube.com/watch?t=38&v=IfLhXM4RnB4) It 
 * Use Wiki to document 
 * Use Issues to report/track bugs
 * Remember a forked private repo is still private
+* If you prefer side-by-side diffs, check out [Split diffs](https://github.com/blog/1884-introducing-split-diffs)
+* GitHub uses [Markdown](https://help.github.com/articles/github-flavored-markdown/) for README, wikis (though this can be changed), and issues
 
 # More information
 
